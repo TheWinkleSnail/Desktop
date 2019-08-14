@@ -1,0 +1,13 @@
+# Offline activation file 
+license_number:2879-492-360-2857
+installed_features:ARM.EW.COMPILER,1.00;ARM.EW.DEBUGGER,1.00;ARM.EW.LIBSRC,1.00;ARM.EW.LINKER,1.00;ARM.EW.MISRAC,1.00
+lock_ip:*1ARN3N4S7LCJCP7
+lock_mac:*1N38WUUH8PBVNBT
+lock_disk:*13GRA7G82YY2KJX
+lock_uuid:*15JKXTG9MLPAAMB
+lock_uuid_host:*1FHLFUR5PPAT7HH
+lock_uuid_mac:*1T64VLPJYNXNBCP
+lock_mac_host:*1KQQHRM78S2LNJB
+lock_hdd:*1MT5GHQ42GJUPBF
+virtual:false
+# Offline activation
