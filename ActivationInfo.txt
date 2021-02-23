@@ -10,4 +10,5 @@ lock_uuid_mac:*1T64VLPJYNXNBCP
 lock_mac_host:*1KQQHRM78S2LNJB
 lock_hdd:*1MT5GHQ42GJUPBF
 virtual:false
+I'ma  change
 # Offline activation
